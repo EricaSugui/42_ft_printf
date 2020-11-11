@@ -12,7 +12,5 @@ int main()
 	sculptures = 4;
 	artifacts = rooms * (paintings + sculptures);
 
-	printf("This museum has %d artifacts\n",artifacts);
-
 	return(0);
 }
