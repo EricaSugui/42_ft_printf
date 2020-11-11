@@ -2,9 +2,11 @@
 
 int main()
 {
-	int artifacts,rooms,paintings,sculptures;
+	int artifacts;
+	int rooms; 
+	int paintings;
+	int sculptures;
 
-	/* code your calculations here */
 	rooms = 12;
 	paintings = 16;
 	sculptures = 4;
